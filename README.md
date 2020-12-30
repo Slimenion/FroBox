@@ -1,4 +1,4 @@
-# Site for my game FroBox
+# 🕹 Site for my game FroBox
 
 ### ⚙ The site is written on bootstrap
 
