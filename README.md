@@ -2,4 +2,4 @@
 
 ### ⚙ The site is written on bootstrap
 
-### The site was created for the privacy policy of google play
+### 📌 The site was created for the privacy policy of google play
